@@ -19,4 +19,4 @@ it's take near about one and half Hour to complete.
 
 ## Deployed link
 
-[Digital marketing)](ninis-restaurant.netlify.app)
+[Digital marketing)](digital-marketing-landingg-page.netlify.app)
