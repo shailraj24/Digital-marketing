@@ -19,4 +19,4 @@ it's take near about one and half Hour to complete.
 
 ## Deployed link
 
-[Digital marketing)](digital-marketing-landingg-page.netlify.app)
+[Digital marketing)](https://digital-marketing-landingg-page.netlify.app)
